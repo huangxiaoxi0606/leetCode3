@@ -7,3 +7,4 @@
 移动零|283 |[moveZeroes url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/moveZeroes/moveZeroes.php) | [moveZeroes url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/moveZeroes/test.php)
 学生出勤记录 I|551 |[checkRecord url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/checkRecord/checkRecord.php) | [checkRecord url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/checkRecord/test.php)
 爬楼梯 |70 |[climbStairs url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/climbStairs/climbStairs.php) | [climbStairs url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/climbStairs/test.php)
+找不同 |389 |[findTheDifference url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/findTheDifference/findTheDifference.php) | [findTheDifference url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/findTheDifference/test.php)
