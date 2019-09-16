@@ -15,3 +15,4 @@
 棒球比赛|682|[calPoints url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/calPoints/calPoints.php) | [calPoints url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/calPoints/test.php)
 单调数列|896|[isMonotonic url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/isMonotonic/isMonotonic.php) | [isMonotonic url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/isMonotonic/test.php)
 Bigram 分词|1078|[findOcurrences url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/findOcurrences/findOcurrences.php) | [findOcurrences url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/findOcurrences/test.php)
+存在重复元素 II|219|[containsNearbyDuplicate url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/containsNearbyDuplicate/containsNearbyDuplicate.php) | [containsNearbyDuplicate url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/containsNearbyDuplicate/test.php)
