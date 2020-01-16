@@ -19,3 +19,4 @@ Bigram 分词|1078|[findOcurrences url](https://github.com/huangxiaoxi0606/leetC
 最长公共前缀|14|[longestCommonPrefix url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/longestCommonPrefix/longestCommonPrefix.php) | [longestCommonPrefix url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/longestCommonPrefix/test.php)
 排列硬币|441|[arrangeCoins url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/arrangeCoins/arrangeCoins.php) | [arrangeCoins url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/arrangeCoins/test.php)
 各位相加|258|[addDigits url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/addDigits/addDigits.php) | [addDigits url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/addDigits/test.php)
+Nim 游戏|292|[canWinNim url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/canWinNim/canWinNim.php) | [canWinNim url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/canWinNim/test.php)
