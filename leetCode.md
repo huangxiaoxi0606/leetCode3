@@ -28,3 +28,4 @@ Nim 游戏|292|[canWinNim url](https://github.com/huangxiaoxi0606/leetCode3/blob
 面试题 01.06. 字符串压缩|面试题 01.06|[compressString url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/compressString/compressString.php) | [compressString url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/compressString/test.php)
 面试题 02.07. 链表相交|面试题 02.07|[getIntersectionNode url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/getIntersectionNode/getIntersectionNode.go)
 面试题 02.02. 返回倒数第 k 个节点|面试题 02.02|[kthToLast url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/kthToLast/kthToLast.php) | [kthToLast url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/kthToLast/test.php)
+面试题 17.10. 主要元素|面试题 17.10|[majorityElement url](https://github.com/huangxiaoxi0606/leetCode3/blob/master/majorityElement/majorityElement.php) | [majorityElement url_test](https://github.com/huangxiaoxi0606/leetCode3/blob/master/majorityElement/test.php)
